@@ -1,0 +1,22 @@
+<Plugin><_MOD_>2011-04-20</_MOD_>
+<Name>Plugin</Name>
+<Type>8344</Type>
+<Dirty>0</Dirty>
+<Owndata>1</Owndata>
+<TID>8344</TID>
+<Size>2</Size>
+<_XName>Plugin</_XName>
+<Allocinc>16</Allocinc>
+<Data><Plugin><_MOD_>1971-07-25</_MOD_>
+<F_PLUG_NAME>Hop Update 2016 (32 hops)</F_PLUG_NAME>
+<F_PLUG_TYPE>7403</F_PLUG_TYPE>
+<F_PLUG_FILE>Hops2016Update.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>2020-04-19</_MOD_>
+<F_PLUG_NAME>Imperial Yeast(27 yeasts )</F_PLUG_NAME>
+<F_PLUG_TYPE>7426</F_PLUG_TYPE>
+<F_PLUG_FILE>ImperialYeast.bsmx</F_PLUG_FILE>
+</Plugin>
+</Data>
+<_TExpanded>1</_TExpanded>
+</Plugin>
